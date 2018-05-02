@@ -1,5 +1,5 @@
 {
-  "name": "vue-storefront-pagination",
+  "name": "vsf-pagination",
   "version": "1.0.0",
   "description": "Pagination plugin for Vue storefront",
   "main": "index.js",
