@@ -6,7 +6,7 @@ Pagination extension for [vue-storefront](https://github.com/DivanteLtd/vue-stor
 
 #### Installation
 ```
-  Yarn add vue-storefront-pagination
+  Yarn add vsf-pagination
   
 ```
 
@@ -15,7 +15,7 @@ Pagination extension for [vue-storefront](https://github.com/DivanteLtd/vue-stor
 Eg. In category.vue component
 
 ```
-  import { Pagination } from 'vue-storefront-pagination'
+  import { Pagination } from 'vsf-pagination'
 ```
 
 ```
